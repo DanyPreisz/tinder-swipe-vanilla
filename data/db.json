@@ -1,0 +1,9 @@
+{
+  "profiles": [
+    { "id": "u1", "name": "Luna", "age": 24, "city": "Corrientes", "bio": "Mate y playlist de madrugada." },
+    { "id": "u2", "name": "Nico", "age": 27, "city": "Goya", "bio": "Código, río y asado." },
+    { "id": "u3", "name": "Sofi", "age": 23, "city": "Mercedes", "bio": "Fotos malas y charla buena." },
+    { "id": "u4", "name": "Tomi", "age": 29, "city": "Santo Tomé", "bio": "Bici los domingos." },
+    { "id": "u5", "name": "Vale", "age": 26, "city": "Curuzú Cuatiá", "bio": "Libros y rain playlists." }
+  ]
+}
